@@ -14,7 +14,7 @@ And a Full-stack developer with a vast array of knowledge in many different fron
 - Angular.js
 - Vue.js
 - React.js, Redux
-- 
+  
 ✔ Server-Side:
 - Node.JS, Exress.js
 - PHP Frameworks(Laravel, CodeIgniter)
@@ -24,6 +24,7 @@ And a Full-stack developer with a vast array of knowledge in many different fron
 - NoSQL database: MongoDB, Firebase
 
 ➤ Mobile Development
+
 ✔ Flutter, Dart
 ✔ React Native, Redux
 ✔ Google Firebase
@@ -32,6 +33,7 @@ I’m always on the lookout to learn the latest technology and welcome all proje
 
 So;
 If you:
+
 ✔ Like to get a high-quality code?
 ✔ Need the easy-to-support and bugs-free code?
 ✔ Want not only peace of the code but the complete solution of your tasks?
