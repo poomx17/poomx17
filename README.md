@@ -26,18 +26,12 @@ And a Full-stack developer with a vast array of knowledge in many different fron
 ➤ Mobile Development
 
 ✔ Flutter, Dart
+
 ✔ React Native, Redux
+
 ✔ Google Firebase
 
 I’m always on the lookout to learn the latest technology and welcome all projects that require me to get familiar with new technologies.
 
-So;
-If you:
-
-✔ Like to get a high-quality code?
-✔ Need the easy-to-support and bugs-free code?
-✔ Want not only peace of the code but the complete solution of your tasks?
-
-Then you're at the right spot. 🎯
 
 Thank you for taking the time to review my profile and potentially considering me for your project!
