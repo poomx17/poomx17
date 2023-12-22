@@ -12,12 +12,12 @@ And a Full-stack developer with a vast array of knowledge in many different fron
 ✔ Client-Side:
 - HTML, JavaScript/jQuery, CSS Framework
 - Angular.js
-- Vue.js
-- React.js, Redux
+- Vue.js, Nuxt.js, vuetify
+- React.js, Redux, Next.js
   
 ✔ Server-Side:
 - Node.JS, Exress.js
-- PHP Frameworks(Laravel, CodeIgniter)
+- PHP Frameworks(Laravel, CodeIgniter, Yii, Zend)
   
 ✔ DB
 - Relational database: MySQL, PostgreSQL, SQLite
@@ -35,3 +35,5 @@ I’m always on the lookout to learn the latest technology and welcome all proje
 
 
 Thank you for taking the time to review my profile and potentially considering me for your project!
+
+Email: modesorehari@gmail.com
