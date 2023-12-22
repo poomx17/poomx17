@@ -17,6 +17,7 @@ And a Full-stack developer with a vast array of knowledge in many different fron
   
 ✔ Server-Side:
 - Node.JS, Exress.js
+- Python, Django, Flask
 - PHP Frameworks(Laravel, CodeIgniter, Yii, Zend)
   
 ✔ DB
